@@ -1,0 +1,16 @@
+site_name: Math
+pages:
+  - "Home": index.md
+  - "Germany":
+    - "National":
+      - "2017": "germany/national/2017.md"
+
+theme: 'material'
+
+extra_css:
+  - css/style.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
+
+markdown_extensions:
+  - "pymdownx.arithmatex"
