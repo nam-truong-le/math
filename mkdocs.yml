@@ -7,6 +7,17 @@ pages:
       - "2016": "germany/national/2016.md"
 
 theme: 'material'
+extra:
+  palette:
+    primary: 'teal'
+    accent: 'blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'cloud'
+  feature:
+    tabs: true
 
 extra_css:
   - css/style.css
@@ -14,4 +25,4 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML
 
 markdown_extensions:
-  - "pymdownx.arithmatex"
+  - pymdownx.arithmatex
