@@ -4,6 +4,7 @@ pages:
   - "Germany":
     - "National":
       - "2017": "germany/national/2017.md"
+      - "2016": "germany/national/2016.md"
 
 theme: 'material'
 
