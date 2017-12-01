@@ -1,10 +1,16 @@
 site_name: Math
 pages:
   - "Home": index.md
+  - "Austria":
+    - "National":
+      - "2017": "austria/national/2017.md"
   - "Germany":
     - "National":
       - "2017": "germany/national/2017.md"
       - "2016": "germany/national/2016.md"
+  - "Switzerland":
+    - "National":
+      - "2017": "switzerland/national/2017.md"
 
 theme: 'material'
 extra:
