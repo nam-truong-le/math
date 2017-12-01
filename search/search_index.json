@@ -11,8 +11,83 @@
             "title": "Math"
         }, 
         {
+            "location": "/austria/national/2017/", 
+            "text": "Austria National 2017\n\n\nV\u00f2ng 1\n\n\nB\u00e0i 1\n\n\nT\u00ecm t\u1ea5t c\u1ea3 c\u00e1c \u0111a th\u1ee9c v\u1edbi h\u1ec7 s\u1ed1 th\u1ef1c tho\u1ea3 m\u00e3n hai \u0111i\u1ec1u ki\u1ec7n sau:\n\n\n\n\n\\(P\\left( 2017 \\right) = 2016\\)\n v\u00e0\n\n\n\\(\\left( P\\left( x \\right) + 1 \\right)^2 = P\\left( x^2 + 1 \\right)\\)\n v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 th\u1ef1c \n\\(x\\)\n.\n\n\n\n\nB\u00e0i 2\n\n\nCho ng\u0169 gi\u00e1c \u0111\u1ec1u \n\\(ABCDE\\)\n. \n\\(M\\)\n l\u00e0 t\u00e2m c\u1ee7a ng\u0169 gi\u00e1c, tr\u00ean \u0111o\u1ea1n \n\\(MD\\)\n ta ch\u1ecdn m\u1ed9t \u0111i\u1ec3m \n\\(P\\neq M\\)\n. \u0110\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp tam gi\u00e1c \n\\(ABP\\)\n c\u1eaft c\u1ea1nh \n\\(AE\\)\n t\u1ea1i \n\\(A\\)\n v\u00e0 \n\\(Q\\)\n, v\u00e0 c\u1eaft \u0111\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi \n\\(CD\\)\n \u0111i qua \n\\(P\\)\n t\u1ea1i \n\\(P\\)\n v\u00e0 \n\\(R\\)\n.\n\n\nCh\u1ee9ng minh r\u1eb1ng \n\\(AR=QR\\)\n.\n\n\nB\u00e0i 3\n\n\nAn v\u00e0 B\u00ecnh thay nhau l\u1ea5y c\u00e1c vi\u00ean bi l\u00ean kh\u1ecfi b\u00e0n. An l\u00e0 ng\u01b0\u1eddi ch\u01a1i \u0111\u1ea7u ti\u00ean. Tr\u01b0\u1edbc m\u1ed7i l\u01b0\u1ee3t ch\u01a1i n\u1ebfu c\u00f3 \n\\(n\\geq 1\\)\n vi\u00ean bi tr\u00ean b\u00e0n th\u00ec ng\u01b0\u1eddi ch\u01a1i l\u1ea5y \u0111i \n\\(k\\)\n vi\u00ean bi trong \u0111\u00f3 \n\\(k\\)\n l\u00e0 m\u1ed9t s\u1ed1 ch\u1eb5n tho\u1ea3 m\u00e3n \n\\(k\\leq \\frac{n}{2}\\)\n ho\u1eb7c \n\\(k\\)\n l\u00e0 m\u1ed9t s\u1ed1 l\u1ebb tho\u1ea3 m\u00e3n \n\\(\\frac{n}{2} \\leq k \\leq n\\)\n. Ng\u01b0\u1eddi l\u1ea5y vi\u00ean bi cu\u1ed1i c\u00f9ng l\u00ean kh\u1ecfi b\u00e0n l\u00e0 ng\u01b0\u1eddi th\u1eafng.\n\n\nT\u00ecm s\u1ed1 \n\\(N\\geq 100000\\)\n nh\u1ecf nh\u1ea5t sao cho B\u00ecnh c\u00f3 chi\u1ebfn thu\u1eadt th\u1eafng n\u1ebfu ban \u0111\u1ea7u tr\u00ean b\u00e0n c\u00f3 \n\\(N\\)\n vi\u00ean bi.\n\n\nB\u00e0i 4\n\n\nT\u00ecm t\u1ea5t c\u1ea3 c\u00e1c c\u1eb7p s\u1ed1 nguy\u00ean kh\u00f4ng \u00e2m \n\\(\\left( a, b \\right)\\)\n tho\u1ea3 m\u00e3n:\n\n\n\\[\n2017^a = b^6 - 32b + 1\n\\]\nV\u00f2ng 2 - Ng\u00e0y 1\n\n\nB\u00e0i 1\n\n\nCho s\u1ed1 th\u1ef1c \n\\(\\alpha\\)\n. T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m s\u1ed1 \n\\(f: \\mathbb{R} \\rightarrow \\mathbb{R}\\)\n tho\u1ea3 m\u00e3n:\n\n\n\\[\nf\\left( f\\left( x + y \\right) f\\left( x - y \\right) \\right) = x^2 + \\alpha y f\\left( y \\right)\n\\]\nv\u1edbi m\u1ecdi \n\\(x,y\\in \\mathbb{R}\\)\n\n\nB\u00e0i 2\n\n\nM\u1ed9t v\u00f2ng c\u1ed5 \u0111\u01b0\u1ee3c \u0111\u00ednh \n\\(2016\\)\n vi\u00ean ng\u1ecdc trai, m\u1ed7i vi\u00ean ng\u1ecdc trai c\u00f3 th\u1ec3 c\u00f3 m\u00e0u \u0111en, \u0111\u1ecf ho\u1eb7c xanh. C\u00e1c vi\u00ean ng\u1ecdc trai \u0111\u01b0\u1ee3c \u0111\u1ed3ng lo\u1ea1t thay b\u1edfi c\u00e1c vi\u00ean ng\u1ecdc trai m\u1edbi nh\u01b0 sau: n\u1ebfu hi\u1ec7n t\u1ea1i hai vi\u00ean ng\u1ecdc trai b\u00ean c\u1ea1nh c\u00f3 c\u00f9ng m\u1ed9t m\u00e0u, th\u00ec vi\u00ean ng\u1ecdc trai m\u1edbi s\u1ebd c\u00f3 c\u00f9ng m\u00e0u \u0111\u00f3; n\u1ebfu hai vi\u00ean ng\u1ecdc trai b\u00ean c\u1ea1nh c\u00f3 m\u00e0u kh\u00e1c nhau th\u00ec vi\u00ean ng\u1ecdc trai m\u1edbi s\u1ebd c\u00f3 m\u00e0u th\u1ee9 ba c\u00f2n l\u1ea1i.\n\n\n\n  \nH\u1ecfi c\u00f3 v\u00f2ng c\u1ed5 n\u00e0o m\u00e0 c\u00f3 m\u1ed9t n\u1eeda s\u1ed1 vi\u00ean ng\u1ecdc trai m\u00e0u \u0111en, n\u1eeda c\u00f2n l\u1ea1i m\u00e0u \u0111\u1ecf m\u00e0 t\u1eeb \u0111\u00f3 v\u1edbi h\u1eefu h\u1ea1n l\u1ea7n thay ta c\u00f3 th\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c m\u1ed9t v\u00f2ng c\u1ed5 ch\u1ec9 c\u00f3 m\u1ed7i m\u00e0u xanh?\n\n  \nH\u1ecfi c\u00f3 v\u00f2ng c\u1ed5 n\u00e0o m\u00e0 c\u00f3 m\u1ed9t ngh\u00ecn vi\u00ean m\u00e0u \u0111en v\u00e0 c\u00e1c vi\u00ean c\u00f2n l\u1ea1i m\u00e0u \u0111\u1ecf m\u00e0 t\u1eeb \u0111\u00f3 ta c\u00f3 th\u1ec3 thu \u0111\u01b0\u1ee3c m\u1ed9t v\u00f2ng c\u1ed5 ch\u1ec9 c\u00f3 m\u00e0u xanh?\n\n  \nH\u1ecfi c\u00f3 v\u1ed3ng c\u1ed5 n\u00e0o m\u00e0 ch\u1ec9 c\u00f3 \u0111\u00fang hai vi\u00ean m\u00e0u \u0111en c\u1ea1nh nhau, c\u00e1c vi\u00ean c\u00f2n l\u1ea1i m\u00e0u \u0111\u1ecf m\u00e0 ta c\u00f3 th\u1ec3 thu \u0111\u01b0\u1ee3c m\u1ed9t v\u00f2ng c\u1ed5 m\u00e0 ch\u1ec9 c\u00f3 \u0111\u00fang m\u1ed9t vi\u00ean m\u00e0u xanh, c\u00e1c vi\u00ean c\u00f2n l\u1ea1i l\u00e0 m\u00e0u \u0111\u1ecf?\n\n\n\n\n\nB\u00e0i 3\n\n\n\\(\\left( a_n \\right)_{n \\geq 0}\\)\n l\u00e0 m\u1ed9t d\u00e3 s\u1ed1 h\u1eefu t\u1ef7 v\u1edbi \n\\(a_0 = 2016\\)\n v\u00e0\n\n\n\\[\na_{n+1} = a_n + \\frac{2}{a_n}\n\\]\nv\u1edbi m\u1ecdi \n\\(n\\geq 0\\)\n.\n\n\nCh\u1ee9ng minh r\u1eb1ng d\u00e3y s\u1ed1 kh\u00f4ng ch\u1ee9a s\u1ed1 n\u00e0o l\u00e0 b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a m\u1ed9t s\u1ed1 h\u1eefu t\u1ef7.\n\n\nV\u00f2ng 2 - Ng\u00e0y 2\n\n\nB\u00e0i 4\n\n\n\n    \n\n        T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a t\u1ed5ng \\(x+y+z\\) v\u1edbi \\(x,y,z\\) l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c tho\u1ea3 m\u00e3n:\n\n        $$\n        16xyz = \\left( x+ y \\right)^2 \\left( x + z \\right)^2\n        $$\n    \n\n    \n\n        G\u1ecdi gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t \u0111\u00f3 l\u00e0 \\(M\\). Ch\u1ee9ng minh r\u1eb1ng c\u00f3 v\u00f4 s\u1ed1 b\u1ed9 ba s\u1ed1 h\u1eefu t\u1ef7 \\(x,y,z\\) tho\u1ea3 m\u00e3n\n\n        $$\n        16xyz = \\left( x+ y \\right)^2 \\left( x + z \\right)^2\\ \\text{v\u00e0} \\ x + y + z = M\n        $$\n    \n\n\n\n\n\nB\u00e0i 5\n\n\nCho tam gi\u00e1c nh\u1ecdn \n\\(ABC\\)\n, \n\\(H\\)\n l\u00e0 tr\u1ef1c t\u00e2m v\u00e0 \n\\(D,E,F\\)\n l\u00e0 ch\u00e2n c\u00e1c \u0111\u01b0\u1eddng cao t\u1eeb \n\\(A,B,C\\)\n. Giao \u0111i\u1ec3m c\u1ee7a \n\\(DF\\)\n v\u00e0 \u0111\u01b0\u1eddng cao t\u1eeb \n\\(B\\)\n \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 \n\\(P\\)\n. \u0110\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi \n\\(BC\\)\n \u0111i qua \n\\(P\\)\n c\u1eaft \n\\(AB\\)\n t\u1ea1i \n\\(Q\\)\n. Giao \u0111i\u1ec3m c\u1ee7a \n\\(EQ\\)\n v\u1edbi \u0111\u01b0\u1eddng cao t\u1eeb \n\\(A\\)\n l\u00e0 \n\\(N\\)\n.\n\n\nCh\u1ee9ng minh r\u1eb1ng \n\\(N\\)\n l\u00e0 trung \u0111i\u1ec3m \n\\(AH\\)\n.\n\n\nB\u00e0i 6\n\n\nCho \n\\(S=\\left\\{ 1,2,\\dots,2017 \\right\\}\\)\n.\n\n\nT\u00ecm s\u1ed1 t\u1ef1 nhi\u00ean \n\\(n\\)\n l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 sao cho c\u00f3 \n\\(n\\)\n t\u1eadp con ph\u00e2n bi\u1ec7t c\u1ee7a \n\\(S\\)\n sao cho kh\u00f4ng c\u00f3 hai t\u1eadp con n\u00e0o trong \u0111\u00f3 c\u00f3 h\u1ee3p c\u1ee7a ch\u00fang ch\u00ednh l\u00e0 \n\\(S\\)\n.", 
+            "title": "2017"
+        }, 
+        {
+            "location": "/austria/national/2017/#austria-national-2017", 
+            "text": "", 
+            "title": "Austria National 2017"
+        }, 
+        {
+            "location": "/austria/national/2017/#vong-1", 
+            "text": "", 
+            "title": "V\u00f2ng 1"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-1", 
+            "text": "T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c \u0111a th\u1ee9c v\u1edbi h\u1ec7 s\u1ed1 th\u1ef1c tho\u1ea3 m\u00e3n hai \u0111i\u1ec1u ki\u1ec7n sau:   \\(P\\left( 2017 \\right) = 2016\\)  v\u00e0  \\(\\left( P\\left( x \\right) + 1 \\right)^2 = P\\left( x^2 + 1 \\right)\\)  v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 th\u1ef1c  \\(x\\) .", 
+            "title": "B\u00e0i 1"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-2", 
+            "text": "Cho ng\u0169 gi\u00e1c \u0111\u1ec1u  \\(ABCDE\\) .  \\(M\\)  l\u00e0 t\u00e2m c\u1ee7a ng\u0169 gi\u00e1c, tr\u00ean \u0111o\u1ea1n  \\(MD\\)  ta ch\u1ecdn m\u1ed9t \u0111i\u1ec3m  \\(P\\neq M\\) . \u0110\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp tam gi\u00e1c  \\(ABP\\)  c\u1eaft c\u1ea1nh  \\(AE\\)  t\u1ea1i  \\(A\\)  v\u00e0  \\(Q\\) , v\u00e0 c\u1eaft \u0111\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi  \\(CD\\)  \u0111i qua  \\(P\\)  t\u1ea1i  \\(P\\)  v\u00e0  \\(R\\) .  Ch\u1ee9ng minh r\u1eb1ng  \\(AR=QR\\) .", 
+            "title": "B\u00e0i 2"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-3", 
+            "text": "An v\u00e0 B\u00ecnh thay nhau l\u1ea5y c\u00e1c vi\u00ean bi l\u00ean kh\u1ecfi b\u00e0n. An l\u00e0 ng\u01b0\u1eddi ch\u01a1i \u0111\u1ea7u ti\u00ean. Tr\u01b0\u1edbc m\u1ed7i l\u01b0\u1ee3t ch\u01a1i n\u1ebfu c\u00f3  \\(n\\geq 1\\)  vi\u00ean bi tr\u00ean b\u00e0n th\u00ec ng\u01b0\u1eddi ch\u01a1i l\u1ea5y \u0111i  \\(k\\)  vi\u00ean bi trong \u0111\u00f3  \\(k\\)  l\u00e0 m\u1ed9t s\u1ed1 ch\u1eb5n tho\u1ea3 m\u00e3n  \\(k\\leq \\frac{n}{2}\\)  ho\u1eb7c  \\(k\\)  l\u00e0 m\u1ed9t s\u1ed1 l\u1ebb tho\u1ea3 m\u00e3n  \\(\\frac{n}{2} \\leq k \\leq n\\) . Ng\u01b0\u1eddi l\u1ea5y vi\u00ean bi cu\u1ed1i c\u00f9ng l\u00ean kh\u1ecfi b\u00e0n l\u00e0 ng\u01b0\u1eddi th\u1eafng.  T\u00ecm s\u1ed1  \\(N\\geq 100000\\)  nh\u1ecf nh\u1ea5t sao cho B\u00ecnh c\u00f3 chi\u1ebfn thu\u1eadt th\u1eafng n\u1ebfu ban \u0111\u1ea7u tr\u00ean b\u00e0n c\u00f3  \\(N\\)  vi\u00ean bi.", 
+            "title": "B\u00e0i 3"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-4", 
+            "text": "T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c c\u1eb7p s\u1ed1 nguy\u00ean kh\u00f4ng \u00e2m  \\(\\left( a, b \\right)\\)  tho\u1ea3 m\u00e3n:  \\[\n2017^a = b^6 - 32b + 1\n\\]", 
+            "title": "B\u00e0i 4"
+        }, 
+        {
+            "location": "/austria/national/2017/#vong-2-ngay-1", 
+            "text": "", 
+            "title": "V\u00f2ng 2 - Ng\u00e0y 1"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-1_1", 
+            "text": "Cho s\u1ed1 th\u1ef1c  \\(\\alpha\\) . T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m s\u1ed1  \\(f: \\mathbb{R} \\rightarrow \\mathbb{R}\\)  tho\u1ea3 m\u00e3n:  \\[\nf\\left( f\\left( x + y \\right) f\\left( x - y \\right) \\right) = x^2 + \\alpha y f\\left( y \\right)\n\\] v\u1edbi m\u1ecdi  \\(x,y\\in \\mathbb{R}\\)", 
+            "title": "B\u00e0i 1"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-2_1", 
+            "text": "M\u1ed9t v\u00f2ng c\u1ed5 \u0111\u01b0\u1ee3c \u0111\u00ednh  \\(2016\\)  vi\u00ean ng\u1ecdc trai, m\u1ed7i vi\u00ean ng\u1ecdc trai c\u00f3 th\u1ec3 c\u00f3 m\u00e0u \u0111en, \u0111\u1ecf ho\u1eb7c xanh. C\u00e1c vi\u00ean ng\u1ecdc trai \u0111\u01b0\u1ee3c \u0111\u1ed3ng lo\u1ea1t thay b\u1edfi c\u00e1c vi\u00ean ng\u1ecdc trai m\u1edbi nh\u01b0 sau: n\u1ebfu hi\u1ec7n t\u1ea1i hai vi\u00ean ng\u1ecdc trai b\u00ean c\u1ea1nh c\u00f3 c\u00f9ng m\u1ed9t m\u00e0u, th\u00ec vi\u00ean ng\u1ecdc trai m\u1edbi s\u1ebd c\u00f3 c\u00f9ng m\u00e0u \u0111\u00f3; n\u1ebfu hai vi\u00ean ng\u1ecdc trai b\u00ean c\u1ea1nh c\u00f3 m\u00e0u kh\u00e1c nhau th\u00ec vi\u00ean ng\u1ecdc trai m\u1edbi s\u1ebd c\u00f3 m\u00e0u th\u1ee9 ba c\u00f2n l\u1ea1i.  \n   H\u1ecfi c\u00f3 v\u00f2ng c\u1ed5 n\u00e0o m\u00e0 c\u00f3 m\u1ed9t n\u1eeda s\u1ed1 vi\u00ean ng\u1ecdc trai m\u00e0u \u0111en, n\u1eeda c\u00f2n l\u1ea1i m\u00e0u \u0111\u1ecf m\u00e0 t\u1eeb \u0111\u00f3 v\u1edbi h\u1eefu h\u1ea1n l\u1ea7n thay ta c\u00f3 th\u1ec3 c\u00f3 \u0111\u01b0\u1ee3c m\u1ed9t v\u00f2ng c\u1ed5 ch\u1ec9 c\u00f3 m\u1ed7i m\u00e0u xanh? \n   H\u1ecfi c\u00f3 v\u00f2ng c\u1ed5 n\u00e0o m\u00e0 c\u00f3 m\u1ed9t ngh\u00ecn vi\u00ean m\u00e0u \u0111en v\u00e0 c\u00e1c vi\u00ean c\u00f2n l\u1ea1i m\u00e0u \u0111\u1ecf m\u00e0 t\u1eeb \u0111\u00f3 ta c\u00f3 th\u1ec3 thu \u0111\u01b0\u1ee3c m\u1ed9t v\u00f2ng c\u1ed5 ch\u1ec9 c\u00f3 m\u00e0u xanh? \n   H\u1ecfi c\u00f3 v\u1ed3ng c\u1ed5 n\u00e0o m\u00e0 ch\u1ec9 c\u00f3 \u0111\u00fang hai vi\u00ean m\u00e0u \u0111en c\u1ea1nh nhau, c\u00e1c vi\u00ean c\u00f2n l\u1ea1i m\u00e0u \u0111\u1ecf m\u00e0 ta c\u00f3 th\u1ec3 thu \u0111\u01b0\u1ee3c m\u1ed9t v\u00f2ng c\u1ed5 m\u00e0 ch\u1ec9 c\u00f3 \u0111\u00fang m\u1ed9t vi\u00ean m\u00e0u xanh, c\u00e1c vi\u00ean c\u00f2n l\u1ea1i l\u00e0 m\u00e0u \u0111\u1ecf?", 
+            "title": "B\u00e0i 2"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-3_1", 
+            "text": "\\(\\left( a_n \\right)_{n \\geq 0}\\)  l\u00e0 m\u1ed9t d\u00e3 s\u1ed1 h\u1eefu t\u1ef7 v\u1edbi  \\(a_0 = 2016\\)  v\u00e0  \\[\na_{n+1} = a_n + \\frac{2}{a_n}\n\\] v\u1edbi m\u1ecdi  \\(n\\geq 0\\) .  Ch\u1ee9ng minh r\u1eb1ng d\u00e3y s\u1ed1 kh\u00f4ng ch\u1ee9a s\u1ed1 n\u00e0o l\u00e0 b\u00ecnh ph\u01b0\u01a1ng c\u1ee7a m\u1ed9t s\u1ed1 h\u1eefu t\u1ef7.", 
+            "title": "B\u00e0i 3"
+        }, 
+        {
+            "location": "/austria/national/2017/#vong-2-ngay-2", 
+            "text": "", 
+            "title": "V\u00f2ng 2 - Ng\u00e0y 2"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-4_1", 
+            "text": "T\u00ecm gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 c\u1ee7a t\u1ed5ng \\(x+y+z\\) v\u1edbi \\(x,y,z\\) l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c tho\u1ea3 m\u00e3n:\n\n        $$\n        16xyz = \\left( x+ y \\right)^2 \\left( x + z \\right)^2\n        $$\n     \n     \n        G\u1ecdi gi\u00e1 tr\u1ecb l\u1edbn nh\u1ea5t \u0111\u00f3 l\u00e0 \\(M\\). Ch\u1ee9ng minh r\u1eb1ng c\u00f3 v\u00f4 s\u1ed1 b\u1ed9 ba s\u1ed1 h\u1eefu t\u1ef7 \\(x,y,z\\) tho\u1ea3 m\u00e3n\n\n        $$\n        16xyz = \\left( x+ y \\right)^2 \\left( x + z \\right)^2\\ \\text{v\u00e0} \\ x + y + z = M\n        $$", 
+            "title": "B\u00e0i 4"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-5", 
+            "text": "Cho tam gi\u00e1c nh\u1ecdn  \\(ABC\\) ,  \\(H\\)  l\u00e0 tr\u1ef1c t\u00e2m v\u00e0  \\(D,E,F\\)  l\u00e0 ch\u00e2n c\u00e1c \u0111\u01b0\u1eddng cao t\u1eeb  \\(A,B,C\\) . Giao \u0111i\u1ec3m c\u1ee7a  \\(DF\\)  v\u00e0 \u0111\u01b0\u1eddng cao t\u1eeb  \\(B\\)  \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0  \\(P\\) . \u0110\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi  \\(BC\\)  \u0111i qua  \\(P\\)  c\u1eaft  \\(AB\\)  t\u1ea1i  \\(Q\\) . Giao \u0111i\u1ec3m c\u1ee7a  \\(EQ\\)  v\u1edbi \u0111\u01b0\u1eddng cao t\u1eeb  \\(A\\)  l\u00e0  \\(N\\) .  Ch\u1ee9ng minh r\u1eb1ng  \\(N\\)  l\u00e0 trung \u0111i\u1ec3m  \\(AH\\) .", 
+            "title": "B\u00e0i 5"
+        }, 
+        {
+            "location": "/austria/national/2017/#bai-6", 
+            "text": "Cho  \\(S=\\left\\{ 1,2,\\dots,2017 \\right\\}\\) .  T\u00ecm s\u1ed1 t\u1ef1 nhi\u00ean  \\(n\\)  l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3 sao cho c\u00f3  \\(n\\)  t\u1eadp con ph\u00e2n bi\u1ec7t c\u1ee7a  \\(S\\)  sao cho kh\u00f4ng c\u00f3 hai t\u1eadp con n\u00e0o trong \u0111\u00f3 c\u00f3 h\u1ee3p c\u1ee7a ch\u00fang ch\u00ednh l\u00e0  \\(S\\) .", 
+            "title": "B\u00e0i 6"
+        }, 
+        {
             "location": "/germany/national/2017/", 
-            "text": "Germany National 2017\n\n\nV\u00f2ng 1\n\n\nB\u00e0i 1\n\n\nC\u00e1c s\u1ed1 \n\\(1,2,\\dots,2017\\)\n \u0111\u01b0\u1ee3c vi\u1ebft l\u00ean tr\u00ean b\u1ea3ng. An v\u00e0 B\u00ecnh thay nhau l\u1ea7n l\u01b0\u1ee3t xo\u00e1 c\u00e1c s\u1ed1 tr\u00ean b\u1ea3ng sao cho ch\u1ec9 c\u00f2n l\u1ea1i hai s\u1ed1. An l\u00e0 ng\u01b0\u1eddi xo\u00e1 \u0111\u1ea7u ti\u00ean. N\u1ebfu t\u1ed5ng hai s\u1ed1 c\u00f2n l\u1ea1i tr\u00ean b\u1ea3ng chia h\u1ebft cho \n\\(8\\)\n th\u00ec An th\u1eafng c\u00f2n kh\u00f4ng th\u00ec B\u00ecnh th\u1eafng. H\u1ecfi ai l\u00e0 ng\u01b0\u1eddi c\u00f3 chi\u1ebfn thu\u1eadt th\u1eafng?\n\n\nB\u00e0i 2\n\n\nM\u1ed9t \u0111a gi\u00e1c \n\\(2017\\)\n \u0111\u1ec9nh c\u00f3 c\u00e1c c\u1ea1nh kh\u00f4ng c\u1eaft nhau c\u00f3 th\u1ec3 c\u00f3 nhi\u1ec1u nh\u1ea5t bao nhi\u00eau g\u00f3c trong nh\u1ecdn?\n\n\nB\u00e0i 3\n\n\n\\(M\\)\n l\u00e0 t\u00e2m \u0111\u01b0\u1eddng tr\u00f2n n\u1ed9i ti\u1ebfp t\u1ee9 gi\u00e1c \n\\(A_1A_2A_3A_4\\)\n. \n\\(g_1\\)\n l\u00e0 \u0111\u01b0\u1eddng th\u1eb3ng \u0111i qua \n\\(A_1\\)\n v\u00e0 vu\u00f4ng g\u00f3c v\u1edbi \n\\(A_1M\\)\n. \n\\(g_2\\)\n, \n\\(g_3\\)\n v\u00e0 \n\\(g_4\\)\n l\u00e0 c\u00e1c \u0111\u01b0\u1eddng th\u1eb3ng t\u01b0\u01a1ng t\u1ef1. \n\\(g_1\\)\n, \n\\(g_2\\)\n, \n\\(g_3\\)\n v\u00e0 \n\\(g_4\\)\n c\u1eaft nhau t\u1ea1o th\u00e0nh t\u1ee9 gi\u00e1c \n\\(B_1B_2B_3B_4\\)\n, trong \u0111\u00f3 \n\\(B_1\\)\n l\u00e0 giao \u0111i\u1ec3m c\u1ee7a \n\\(g_1\\)\n v\u00e0 \n\\(g_2\\)\n, t\u01b0\u01a1ng t\u1ef1 v\u1edbi \n\\(B_2\\)\n, \n\\(B_3\\)\n v\u00e0 \n\\(B_4\\)\n. Ch\u1ee9ng minh r\u0103ng c\u00e1c \u0111\u01b0\u1eddng ch\u00e9o c\u1ee7a t\u1ee9 gi\u00e1c \n\\(B_1B_2B_3B_4\\)\n c\u1eaft nhau t\u1ea1i \n\\(M\\)\n.\n\n\nB\u00e0i 4\n\n\nD\u00e3y s\u1ed1 \n\\(a_0,a_1,a_2,\\dots\\)\n:\n\n\n\\[\na_0 = 1\\ \\text{v\u00e0}\\ a_n = a_{n-1}\\cdot\\left(4 - \\frac{2}{n}\\right)\\ \\text{v\u1edbi}\\ n \\geq 1\n\\]\nCh\u1ee9ng minh r\u1eb1ng v\u1edbi m\u1ed7i \n\\(n\\geq 1\\)\n th\u00ec\n\n\nV\u00f2ng 2\n\n\nB\u00e0i 1\n\n\nB\u00e0i 2\n\n\nB\u00e0i 3\n\n\nB\u00e0i 4", 
+            "text": "Germany National 2017\n\n\nV\u00f2ng 1\n\n\nB\u00e0i 1\n\n\nC\u00e1c s\u1ed1 \n\\(1,2,\\dots,2017\\)\n \u0111\u01b0\u1ee3c vi\u1ebft l\u00ean tr\u00ean b\u1ea3ng. An v\u00e0 B\u00ecnh thay nhau l\u1ea7n l\u01b0\u1ee3t xo\u00e1 c\u00e1c s\u1ed1 tr\u00ean b\u1ea3ng sao cho ch\u1ec9 c\u00f2n l\u1ea1i hai s\u1ed1. An l\u00e0 ng\u01b0\u1eddi xo\u00e1 \u0111\u1ea7u ti\u00ean. N\u1ebfu t\u1ed5ng hai s\u1ed1 c\u00f2n l\u1ea1i tr\u00ean b\u1ea3ng chia h\u1ebft cho \n\\(8\\)\n th\u00ec An th\u1eafng c\u00f2n kh\u00f4ng th\u00ec B\u00ecnh th\u1eafng. H\u1ecfi ai l\u00e0 ng\u01b0\u1eddi c\u00f3 chi\u1ebfn thu\u1eadt th\u1eafng?\n\n\nB\u00e0i 2\n\n\nM\u1ed9t \u0111a gi\u00e1c \n\\(2017\\)\n \u0111\u1ec9nh c\u00f3 c\u00e1c c\u1ea1nh kh\u00f4ng c\u1eaft nhau c\u00f3 th\u1ec3 c\u00f3 nhi\u1ec1u nh\u1ea5t bao nhi\u00eau g\u00f3c trong nh\u1ecdn?\n\n\nB\u00e0i 3\n\n\n\\(M\\)\n l\u00e0 t\u00e2m \u0111\u01b0\u1eddng tr\u00f2n n\u1ed9i ti\u1ebfp t\u1ee9 gi\u00e1c \n\\(A_1A_2A_3A_4\\)\n. \n\\(g_1\\)\n l\u00e0 \u0111\u01b0\u1eddng th\u1eb3ng \u0111i qua \n\\(A_1\\)\n v\u00e0 vu\u00f4ng g\u00f3c v\u1edbi \n\\(A_1M\\)\n. \n\\(g_2\\)\n, \n\\(g_3\\)\n v\u00e0 \n\\(g_4\\)\n l\u00e0 c\u00e1c \u0111\u01b0\u1eddng th\u1eb3ng t\u01b0\u01a1ng t\u1ef1. \n\\(g_1\\)\n, \n\\(g_2\\)\n, \n\\(g_3\\)\n v\u00e0 \n\\(g_4\\)\n c\u1eaft nhau t\u1ea1o th\u00e0nh t\u1ee9 gi\u00e1c \n\\(B_1B_2B_3B_4\\)\n, trong \u0111\u00f3 \n\\(B_1\\)\n l\u00e0 giao \u0111i\u1ec3m c\u1ee7a \n\\(g_1\\)\n v\u00e0 \n\\(g_2\\)\n, t\u01b0\u01a1ng t\u1ef1 v\u1edbi \n\\(B_2\\)\n, \n\\(B_3\\)\n v\u00e0 \n\\(B_4\\)\n. Ch\u1ee9ng minh r\u0103ng c\u00e1c \u0111\u01b0\u1eddng ch\u00e9o c\u1ee7a t\u1ee9 gi\u00e1c \n\\(B_1B_2B_3B_4\\)\n c\u1eaft nhau t\u1ea1i \n\\(M\\)\n.\n\n\nB\u00e0i 4\n\n\nD\u00e3y s\u1ed1 \n\\(a_0,a_1,\\dots\\)\n \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a nh\u01b0 sau:\n\n\n\\[\na_0 = 1 \\ \\text{v\u00e0}\\ a_n = a_{n-1} \\cdot \\left( 4 - \\frac{2}{n} \\right) \\ \\text{v\u1edbi} \\ n \\geq 1\n\\]\nCh\u1ee9ng minh r\u1eb1ng v\u1edbi m\u1ecdi \n\\(n\\geq 1\\)\n:\n\n\n\n  \n\\(a_n\\) l\u00e0 m\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean.\n\n  \nM\u1ecdi s\u1ed1 nguy\u00ean t\u1ed1 \\(p\\) v\u1edbi \\(n \n<\n p \\leq 2n\\) \u0111\u1ec1u l\u00e0 \u01b0\u1edbc s\u1ed1 c\u1ee7a \\(a_n\\).\n\n  \nN\u1ebfu \\(n\\) l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean t\u1ed1 th\u00ec \\(a_n-2\\) chia h\u1ebft cho \\(n\\).\n\n\n\n\n\nV\u00f2ng 2\n\n\nB\u00e0i 1\n\n\nT\u1eeb c\u00e1c s\u1ed1 t\u1ef1 nhi\u00ean \n\\(1,2,\\dots,n+1\\)\n ta n\u00ean b\u1ecf \u0111i m\u1ed9t s\u1ed1 v\u00e0 s\u1eafp x\u1ebfp c\u00e1c s\u1ed1 c\u00f2n l\u1ea1i th\u00e0nh m\u1ed9t d\u00e3y s\u1ed1 \n\\(a_1,a_2,\\dots,a_n\\)\n sao cho \n\\(n\\)\n s\u1ed1 \n\\(\\left| a_1 - a_2 \\right|,\\left| a_2 - a_3 \\right|,\\dots,\\left| a_n - a_1 \\right|\\)\n l\u00e0 \u0111\u00f4i m\u1ed9t kh\u00e1c nhau.\n\n\nH\u1ecfi v\u1edbi s\u1ed1 t\u1ef1 nhi\u00ean \n\\(n\\geq 4\\)\n n\u00e0o th\u00ec ta c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u \u0111\u00f3?\n\n\nB\u00e0i 2\n\n\nTrong m\u1ed9t \u0111a gi\u00e1c \u0111\u1ec1u \n\\(35\\)\n \u0111\u1ec9nh c\u00f3 \n\\(15\\)\n \u0111\u1ec9nh \u0111\u01b0\u1ee3c t\u00f4 m\u00e0u \u0111\u1ecf. H\u1ecfi v\u1edbi m\u1ed7i c\u00e1ch t\u00f4 m\u00e0u nh\u01b0 th\u1ebf c\u00f3 t\u1ed3n t\u1ea1i hay kh\u00f4ng ba \u0111\u1ec9nh \u0111\u1ecf t\u1ea1o th\u00e0nh m\u1ed9t tam gi\u00e1c c\u00e2n?\n\n\nB\u00e0i 3\n\n\nCho tam gi\u00e1c v\u1edbi \u0111\u1ed9 d\u00e0i c\u00e1c c\u1ea1nh l\u00e0 \n\\(a,b,c\\)\n, \n\\(I\\)\n l\u00e0 t\u00e2m n\u1ed9i ti\u1ebfp v\u00e0 \n\\(S\\)\n l\u00e0 tr\u1ecdng t\u00e2m c\u1ee7a tam gi\u00e1c \u0111\u00f3.\n\n\nCh\u1ee9ng minh r\u1eb1ng: n\u1ebfu \n\\(a+b=3c\\)\n th\u00ec \n\\(S\\neq I\\)\n v\u00e0 \u0111\u01b0\u1eddng th\u1eb3ng \n\\(SI\\)\n vu\u00f4ng g\u00f3c v\u1edbi m\u1ed9t c\u1ea1nh c\u1ee7a tam gi\u00e1c.\n\n\nB\u00e0i 4\n\n\nM\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 \n\u0111\u1eb9p\n n\u1ebfu n\u00f3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng \n\\(m^4 + n^3\\)\n, v\u1edbi \n\\(m,n\\)\n l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng.\n\n\nCh\u1ee9ng minh r\u1eb1ng c\u00f3 v\u00f4 s\u1ed1 s\u1ed1 \n\u0111\u1eb9p\n sao cho s\u1ed1 li\u1ec1n tr\u01b0\u1edbc n\u00f3 v\u00e0 s\u1ed1 li\u1ec1n sau n\u00f3 c\u0169ng l\u00e0 s\u1ed1 \n\u0111\u1eb9p\n.", 
             "title": "2017"
         }, 
         {
@@ -42,7 +117,7 @@
         }, 
         {
             "location": "/germany/national/2017/#bai-4", 
-            "text": "D\u00e3y s\u1ed1  \\(a_0,a_1,a_2,\\dots\\) :  \\[\na_0 = 1\\ \\text{v\u00e0}\\ a_n = a_{n-1}\\cdot\\left(4 - \\frac{2}{n}\\right)\\ \\text{v\u1edbi}\\ n \\geq 1\n\\] Ch\u1ee9ng minh r\u1eb1ng v\u1edbi m\u1ed7i  \\(n\\geq 1\\)  th\u00ec", 
+            "text": "D\u00e3y s\u1ed1  \\(a_0,a_1,\\dots\\)  \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a nh\u01b0 sau:  \\[\na_0 = 1 \\ \\text{v\u00e0}\\ a_n = a_{n-1} \\cdot \\left( 4 - \\frac{2}{n} \\right) \\ \\text{v\u1edbi} \\ n \\geq 1\n\\] Ch\u1ee9ng minh r\u1eb1ng v\u1edbi m\u1ecdi  \\(n\\geq 1\\) :  \n   \\(a_n\\) l\u00e0 m\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean. \n   M\u1ecdi s\u1ed1 nguy\u00ean t\u1ed1 \\(p\\) v\u1edbi \\(n  <  p \\leq 2n\\) \u0111\u1ec1u l\u00e0 \u01b0\u1edbc s\u1ed1 c\u1ee7a \\(a_n\\). \n   N\u1ebfu \\(n\\) l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean t\u1ed1 th\u00ec \\(a_n-2\\) chia h\u1ebft cho \\(n\\).", 
             "title": "B\u00e0i 4"
         }, 
         {
@@ -52,23 +127,153 @@
         }, 
         {
             "location": "/germany/national/2017/#bai-1_1", 
-            "text": "", 
+            "text": "T\u1eeb c\u00e1c s\u1ed1 t\u1ef1 nhi\u00ean  \\(1,2,\\dots,n+1\\)  ta n\u00ean b\u1ecf \u0111i m\u1ed9t s\u1ed1 v\u00e0 s\u1eafp x\u1ebfp c\u00e1c s\u1ed1 c\u00f2n l\u1ea1i th\u00e0nh m\u1ed9t d\u00e3y s\u1ed1  \\(a_1,a_2,\\dots,a_n\\)  sao cho  \\(n\\)  s\u1ed1  \\(\\left| a_1 - a_2 \\right|,\\left| a_2 - a_3 \\right|,\\dots,\\left| a_n - a_1 \\right|\\)  l\u00e0 \u0111\u00f4i m\u1ed9t kh\u00e1c nhau.  H\u1ecfi v\u1edbi s\u1ed1 t\u1ef1 nhi\u00ean  \\(n\\geq 4\\)  n\u00e0o th\u00ec ta c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u \u0111\u00f3?", 
             "title": "B\u00e0i 1"
         }, 
         {
             "location": "/germany/national/2017/#bai-2_1", 
-            "text": "", 
+            "text": "Trong m\u1ed9t \u0111a gi\u00e1c \u0111\u1ec1u  \\(35\\)  \u0111\u1ec9nh c\u00f3  \\(15\\)  \u0111\u1ec9nh \u0111\u01b0\u1ee3c t\u00f4 m\u00e0u \u0111\u1ecf. H\u1ecfi v\u1edbi m\u1ed7i c\u00e1ch t\u00f4 m\u00e0u nh\u01b0 th\u1ebf c\u00f3 t\u1ed3n t\u1ea1i hay kh\u00f4ng ba \u0111\u1ec9nh \u0111\u1ecf t\u1ea1o th\u00e0nh m\u1ed9t tam gi\u00e1c c\u00e2n?", 
             "title": "B\u00e0i 2"
         }, 
         {
             "location": "/germany/national/2017/#bai-3_1", 
-            "text": "", 
+            "text": "Cho tam gi\u00e1c v\u1edbi \u0111\u1ed9 d\u00e0i c\u00e1c c\u1ea1nh l\u00e0  \\(a,b,c\\) ,  \\(I\\)  l\u00e0 t\u00e2m n\u1ed9i ti\u1ebfp v\u00e0  \\(S\\)  l\u00e0 tr\u1ecdng t\u00e2m c\u1ee7a tam gi\u00e1c \u0111\u00f3.  Ch\u1ee9ng minh r\u1eb1ng: n\u1ebfu  \\(a+b=3c\\)  th\u00ec  \\(S\\neq I\\)  v\u00e0 \u0111\u01b0\u1eddng th\u1eb3ng  \\(SI\\)  vu\u00f4ng g\u00f3c v\u1edbi m\u1ed9t c\u1ea1nh c\u1ee7a tam gi\u00e1c.", 
             "title": "B\u00e0i 3"
         }, 
         {
             "location": "/germany/national/2017/#bai-4_1", 
-            "text": "", 
+            "text": "M\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0  \u0111\u1eb9p  n\u1ebfu n\u00f3 \u0111\u01b0\u1ee3c bi\u1ec3u di\u1ec5n d\u01b0\u1edbi d\u1ea1ng  \\(m^4 + n^3\\) , v\u1edbi  \\(m,n\\)  l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng.  Ch\u1ee9ng minh r\u1eb1ng c\u00f3 v\u00f4 s\u1ed1 s\u1ed1  \u0111\u1eb9p  sao cho s\u1ed1 li\u1ec1n tr\u01b0\u1edbc n\u00f3 v\u00e0 s\u1ed1 li\u1ec1n sau n\u00f3 c\u0169ng l\u00e0 s\u1ed1  \u0111\u1eb9p .", 
             "title": "B\u00e0i 4"
+        }, 
+        {
+            "location": "/germany/national/2016/", 
+            "text": "Germany National 2016\n\n\nV\u00f2ng 1\n\n\nB\u00e0i 1\n\n\nCho s\u1ed1 \u0111\u01b0\u1ee3c vi\u1ebft v\u1edbi \n\\(2016\\)\n ch\u1eef s\u1ed1 \n\\(0\\)\n: \n\\(101010\\dots 0101\\)\n m\u00e0 c\u00e1c s\u1ed1 \n\\(1\\)\n v\u00e0 \n\\(0\\)\n \u0111\u01b0\u1ee3c vi\u1ebft xen k\u1ebd. Ch\u1ee9ng minh r\u1eb1ng s\u1ed1 \u0111\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 nguy\u00ean t\u1ed1.\n\n\nB\u00e0i 2\n\n\nCho tam gi\u00e1c \n\\(ABC\\)\n v\u1edbi di\u1ec7n t\u00edch b\u1eb1ng \n\\(1\\)\n. An v\u00e0 B\u00ecnh ch\u01a1i m\u1ed9t tr\u00f2 ch\u01a1i nh\u01b0 sau: An ch\u1ecdn m\u1ed9t \u0111i\u1ec3m \n\\(X\\)\n tr\u00ean c\u1ea1nh \n\\(BC\\)\n, B\u00ecnh ch\u1ecdn m\u1ed9t \u0111i\u1ec3m \n\\(Y\\)\n tr\u00ean c\u1ea1nh \n\\(CA\\)\n v\u00e0 sau \u0111\u00f3 An ch\u1ecdn m\u1ed9t \u0111i\u1ec3m \n\\(Z\\)\n tr\u00ean c\u1ea1nh \n\\(AB\\)\n; ba \u0111i\u1ec3m \u0111\u01b0\u1ee3c ch\u1ecdn kh\u00f4ng \u0111\u01b0\u1ee3c tr\u00f9ng v\u1edbi \u0111\u1ec9nh c\u1ee7a tam gi\u00e1c. An ph\u1ea3i c\u1ed1 g\u1eafng l\u00e0m sao cho di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c \n\\(XYZ\\)\n l\u00e0 l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3, B\u00ecnh th\u00ec mu\u1ed1n \u0111i\u1ec1u ng\u01b0\u1ee3c l\u1ea1i sao cho di\u1ec7n t\u00edch tam gi\u00e1c \n\\(XYZ\\)\n l\u00e0 b\u00e9 nh\u1ea5t c\u00f3 th\u1ec3.\n\n\nN\u1ebfu hai ng\u01b0\u1eddi ch\u01a1i b\u1eb1ng chi\u1ebfn thu\u1eadt t\u1ed1t nh\u1ea5t th\u00ec di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c \n\\(XYZ\\)\n cu\u1ed1i c\u00f9ng l\u00e0 bao nhi\u00eau?\n\n\nB\u00e0i 3\n\n\nB\u1ed1n \u0111i\u1ec3m \n\\(A,B,C,D\\)\n theo th\u1ee9 t\u1ef1 n\u1eb1m tr\u00ean m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n. Hai \u0111o\u1ea1n \n\\(AC\\)\n v\u00e0 \n\\(BD\\)\n c\u1eaft nhau t\u1ea1i \n\\(P\\)\n. \u0110\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi \n\\(AC\\)\n t\u1ea1i \n\\(C\\)\n v\u00e0 \u0111\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi \n\\(BD\\)\n t\u1ea1i \n\\(D\\)\n c\u1eaft nhau t\u1ea1i \n\\(Q\\)\n.\n\n\nCh\u1ee9ng minh r\u1eb1ng hai \u0111\u01b0\u1eddng th\u1eb3ng \n\\(AB\\)\n v\u00e0 \n\\(PQ\\)\n vu\u00f4ng g\u00f3c v\u1edbi nhau.\n\n\nB\u00e0i 4\n\n\nTrong m\u1ed9t l\u1edbp c\u00f3 \n\\(33\\)\n h\u1ecdc sinh. M\u1ed7i h\u1ecdc sinh vi\u1ebft l\u00ean b\u1ea3ng s\u1ed1 l\u01b0\u1ee3ng c\u00e1c b\u1ea1n c\u00f2n l\u1ea1i c\u00f3 t\u00ean h\u1ecd gi\u1ed1ng h\u1ecdc sinh \u0111\u00f3 (kh\u00f4ng t\u00ednh b\u1ea3n th\u00e2n h\u1ecdc sinh \u0111\u00f3). Sau \u0111\u00f3 m\u1ed7i h\u1ecdc sinh l\u1ea1i vi\u1ebft l\u00ean b\u1ea3ng s\u1ed1 l\u01b0\u1ee3ng c\u00e1c b\u1ea1n c\u00f2n l\u1ea1i c\u00f3 t\u00ean g\u1ecdi gi\u1ed1ng h\u1ecdc sinh \u0111\u00f3 (kh\u00f4ng t\u00ednh b\u1ea3n th\u00e2n m\u00ecnh). Cu\u1ed1i c\u00f9ng trong \n\\(66\\)\n s\u1ed1 \u0111\u01b0\u1ee3c vi\u1ebft l\u00ean b\u1ea3ng th\u00ec c\u00e1c s\u1ed1 \n\\(0,1,2,\\dots,10\\)\n m\u1ed7i s\u1ed1 \u0111\u1ec1u \u0111\u01b0\u1ee3c vi\u1ebft \u00edt nh\u1ea5t m\u1ed9t l\u1ea7n l\u00ean b\u1ea3ng.\n\n\nCh\u1ee9ng minh r\u1eb1ng trong l\u1edbp c\u00f3 \u00edt nh\u1ea5t hai b\u1ea1n c\u00f9ng chung t\u00ean h\u1ecd v\u00e0 t\u00ean g\u1ecdi.\n\n\nV\u00f2ng 2\n\n\nB\u00e0i 1\n\n\nV\u1edbi \n\\(n\\)\n s\u1ed1 ta c\u00f3 th\u1ec3 t\u1ea1o n\u00ean \n\\(\\frac{n\\left( n - 1\\right)}{2}\\)\n c\u1eb7p hai s\u1ed1 v\u1edbi nhau. H\u1ecfi v\u1edbi \n\\(n\\geq 3\\)\n n\u00e0o th\u00ec t\u1ed3n t\u1ea1i \n\\(n\\)\n s\u1ed1 nguy\u00ean m\u00e0 c\u00e1c c\u1eb7p \u0111\u00f3 c\u00f3 t\u1ed5ng t\u1ea1o th\u00e0nh m\u1ed9t d\u00e3y s\u1ed1 li\u00ean ti\u1ebfp?\n\n\nB\u00e0i 2\n\n\nCh\u1ee9ng minh r\u1eb1ng c\u00f3 v\u00f4 s\u1ed1 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng m\u00e0 kh\u00f4ng th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng \n\\(\\frac{n\\left( n + 1 \\right)}{2} + p\\)\n, trong \u0111\u00f3 \n\\(n\\)\n l\u00e0 s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0 \n\\(p\\)\n l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean t\u1ed1.\n\n\nB\u00e0i 3\n\n\nT\u00ecm t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m s\u1ed1 \n\\(f\\)\n \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 th\u1ef1c kh\u00e1c \n\\(\\frac{1}{3}\\)\n v\u00e0 \n\\(-\\frac{1}{3}\\)\n tho\u1ea3 m\u00e3n:\n\n\n\\[\nf\\left( \\frac{x + 1}{1 - 3x} \\right) + f\\left( x \\right) = x\n\\]\nB\u00e0i 4\n\n\nM\u1ed7i m\u1eb7t c\u1ee7a m\u1ed9t h\u00ecnh kh\u1ed1i \u0111\u1ec1u \n\\(12\\)\n m\u1eb7t n\u1eb1m tr\u00ean m\u1ed9t m\u1eb7t ph\u1eb3ng c\u1ed1 \u0111\u1ecbnh. C\u00e1c m\u1eb7t ph\u1eb3ng n\u00e0y chia kh\u00f4ng gian th\u00e0nh h\u1eefu h\u1ea1n ph\u1ea7n kh\u00f4ng giao nhau. H\u1ecfi c\u00f3 bao nhi\u00eau ph\u1ea7n t\u1ea5t c\u1ea3?", 
+            "title": "2016"
+        }, 
+        {
+            "location": "/germany/national/2016/#germany-national-2016", 
+            "text": "", 
+            "title": "Germany National 2016"
+        }, 
+        {
+            "location": "/germany/national/2016/#vong-1", 
+            "text": "", 
+            "title": "V\u00f2ng 1"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-1", 
+            "text": "Cho s\u1ed1 \u0111\u01b0\u1ee3c vi\u1ebft v\u1edbi  \\(2016\\)  ch\u1eef s\u1ed1  \\(0\\) :  \\(101010\\dots 0101\\)  m\u00e0 c\u00e1c s\u1ed1  \\(1\\)  v\u00e0  \\(0\\)  \u0111\u01b0\u1ee3c vi\u1ebft xen k\u1ebd. Ch\u1ee9ng minh r\u1eb1ng s\u1ed1 \u0111\u00f3 kh\u00f4ng ph\u1ea3i l\u00e0 s\u1ed1 nguy\u00ean t\u1ed1.", 
+            "title": "B\u00e0i 1"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-2", 
+            "text": "Cho tam gi\u00e1c  \\(ABC\\)  v\u1edbi di\u1ec7n t\u00edch b\u1eb1ng  \\(1\\) . An v\u00e0 B\u00ecnh ch\u01a1i m\u1ed9t tr\u00f2 ch\u01a1i nh\u01b0 sau: An ch\u1ecdn m\u1ed9t \u0111i\u1ec3m  \\(X\\)  tr\u00ean c\u1ea1nh  \\(BC\\) , B\u00ecnh ch\u1ecdn m\u1ed9t \u0111i\u1ec3m  \\(Y\\)  tr\u00ean c\u1ea1nh  \\(CA\\)  v\u00e0 sau \u0111\u00f3 An ch\u1ecdn m\u1ed9t \u0111i\u1ec3m  \\(Z\\)  tr\u00ean c\u1ea1nh  \\(AB\\) ; ba \u0111i\u1ec3m \u0111\u01b0\u1ee3c ch\u1ecdn kh\u00f4ng \u0111\u01b0\u1ee3c tr\u00f9ng v\u1edbi \u0111\u1ec9nh c\u1ee7a tam gi\u00e1c. An ph\u1ea3i c\u1ed1 g\u1eafng l\u00e0m sao cho di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c  \\(XYZ\\)  l\u00e0 l\u1edbn nh\u1ea5t c\u00f3 th\u1ec3, B\u00ecnh th\u00ec mu\u1ed1n \u0111i\u1ec1u ng\u01b0\u1ee3c l\u1ea1i sao cho di\u1ec7n t\u00edch tam gi\u00e1c  \\(XYZ\\)  l\u00e0 b\u00e9 nh\u1ea5t c\u00f3 th\u1ec3.  N\u1ebfu hai ng\u01b0\u1eddi ch\u01a1i b\u1eb1ng chi\u1ebfn thu\u1eadt t\u1ed1t nh\u1ea5t th\u00ec di\u1ec7n t\u00edch c\u1ee7a tam gi\u00e1c  \\(XYZ\\)  cu\u1ed1i c\u00f9ng l\u00e0 bao nhi\u00eau?", 
+            "title": "B\u00e0i 2"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-3", 
+            "text": "B\u1ed1n \u0111i\u1ec3m  \\(A,B,C,D\\)  theo th\u1ee9 t\u1ef1 n\u1eb1m tr\u00ean m\u1ed9t \u0111\u01b0\u1eddng tr\u00f2n. Hai \u0111o\u1ea1n  \\(AC\\)  v\u00e0  \\(BD\\)  c\u1eaft nhau t\u1ea1i  \\(P\\) . \u0110\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi  \\(AC\\)  t\u1ea1i  \\(C\\)  v\u00e0 \u0111\u01b0\u1eddng vu\u00f4ng g\u00f3c v\u1edbi  \\(BD\\)  t\u1ea1i  \\(D\\)  c\u1eaft nhau t\u1ea1i  \\(Q\\) .  Ch\u1ee9ng minh r\u1eb1ng hai \u0111\u01b0\u1eddng th\u1eb3ng  \\(AB\\)  v\u00e0  \\(PQ\\)  vu\u00f4ng g\u00f3c v\u1edbi nhau.", 
+            "title": "B\u00e0i 3"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-4", 
+            "text": "Trong m\u1ed9t l\u1edbp c\u00f3  \\(33\\)  h\u1ecdc sinh. M\u1ed7i h\u1ecdc sinh vi\u1ebft l\u00ean b\u1ea3ng s\u1ed1 l\u01b0\u1ee3ng c\u00e1c b\u1ea1n c\u00f2n l\u1ea1i c\u00f3 t\u00ean h\u1ecd gi\u1ed1ng h\u1ecdc sinh \u0111\u00f3 (kh\u00f4ng t\u00ednh b\u1ea3n th\u00e2n h\u1ecdc sinh \u0111\u00f3). Sau \u0111\u00f3 m\u1ed7i h\u1ecdc sinh l\u1ea1i vi\u1ebft l\u00ean b\u1ea3ng s\u1ed1 l\u01b0\u1ee3ng c\u00e1c b\u1ea1n c\u00f2n l\u1ea1i c\u00f3 t\u00ean g\u1ecdi gi\u1ed1ng h\u1ecdc sinh \u0111\u00f3 (kh\u00f4ng t\u00ednh b\u1ea3n th\u00e2n m\u00ecnh). Cu\u1ed1i c\u00f9ng trong  \\(66\\)  s\u1ed1 \u0111\u01b0\u1ee3c vi\u1ebft l\u00ean b\u1ea3ng th\u00ec c\u00e1c s\u1ed1  \\(0,1,2,\\dots,10\\)  m\u1ed7i s\u1ed1 \u0111\u1ec1u \u0111\u01b0\u1ee3c vi\u1ebft \u00edt nh\u1ea5t m\u1ed9t l\u1ea7n l\u00ean b\u1ea3ng.  Ch\u1ee9ng minh r\u1eb1ng trong l\u1edbp c\u00f3 \u00edt nh\u1ea5t hai b\u1ea1n c\u00f9ng chung t\u00ean h\u1ecd v\u00e0 t\u00ean g\u1ecdi.", 
+            "title": "B\u00e0i 4"
+        }, 
+        {
+            "location": "/germany/national/2016/#vong-2", 
+            "text": "", 
+            "title": "V\u00f2ng 2"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-1_1", 
+            "text": "V\u1edbi  \\(n\\)  s\u1ed1 ta c\u00f3 th\u1ec3 t\u1ea1o n\u00ean  \\(\\frac{n\\left( n - 1\\right)}{2}\\)  c\u1eb7p hai s\u1ed1 v\u1edbi nhau. H\u1ecfi v\u1edbi  \\(n\\geq 3\\)  n\u00e0o th\u00ec t\u1ed3n t\u1ea1i  \\(n\\)  s\u1ed1 nguy\u00ean m\u00e0 c\u00e1c c\u1eb7p \u0111\u00f3 c\u00f3 t\u1ed5ng t\u1ea1o th\u00e0nh m\u1ed9t d\u00e3y s\u1ed1 li\u00ean ti\u1ebfp?", 
+            "title": "B\u00e0i 1"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-2_1", 
+            "text": "Ch\u1ee9ng minh r\u1eb1ng c\u00f3 v\u00f4 s\u1ed1 c\u00e1c s\u1ed1 nguy\u00ean d\u01b0\u01a1ng m\u00e0 kh\u00f4ng th\u1ec3 \u0111\u01b0\u1ee3c vi\u1ebft d\u01b0\u1edbi d\u1ea1ng  \\(\\frac{n\\left( n + 1 \\right)}{2} + p\\) , trong \u0111\u00f3  \\(n\\)  l\u00e0 s\u1ed1 nguy\u00ean d\u01b0\u01a1ng v\u00e0  \\(p\\)  l\u00e0 m\u1ed9t s\u1ed1 nguy\u00ean t\u1ed1.", 
+            "title": "B\u00e0i 2"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-3_1", 
+            "text": "T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m s\u1ed1  \\(f\\)  \u0111\u01b0\u1ee3c \u0111\u1ecbnh ngh\u0129a v\u1edbi t\u1ea5t c\u1ea3 c\u00e1c s\u1ed1 th\u1ef1c kh\u00e1c  \\(\\frac{1}{3}\\)  v\u00e0  \\(-\\frac{1}{3}\\)  tho\u1ea3 m\u00e3n:  \\[\nf\\left( \\frac{x + 1}{1 - 3x} \\right) + f\\left( x \\right) = x\n\\]", 
+            "title": "B\u00e0i 3"
+        }, 
+        {
+            "location": "/germany/national/2016/#bai-4_1", 
+            "text": "M\u1ed7i m\u1eb7t c\u1ee7a m\u1ed9t h\u00ecnh kh\u1ed1i \u0111\u1ec1u  \\(12\\)  m\u1eb7t n\u1eb1m tr\u00ean m\u1ed9t m\u1eb7t ph\u1eb3ng c\u1ed1 \u0111\u1ecbnh. C\u00e1c m\u1eb7t ph\u1eb3ng n\u00e0y chia kh\u00f4ng gian th\u00e0nh h\u1eefu h\u1ea1n ph\u1ea7n kh\u00f4ng giao nhau. H\u1ecfi c\u00f3 bao nhi\u00eau ph\u1ea7n t\u1ea5t c\u1ea3?", 
+            "title": "B\u00e0i 4"
+        }, 
+        {
+            "location": "/switzerland/national/2017/", 
+            "text": "Switzerland National 2017\n\n\nNg\u00e0y 1\n\n\nB\u00e0i 1\n\n\n\\(A,B\\)\n l\u00e0 hai \u0111i\u1ec3m tr\u00ean \u0111\u01b0\u1eddng tr\u00f2n \n\\(k\\)\n t\u00e2m \n\\(O\\)\n tho\u1ea3 m\u00e3n \n\\(AB\nAO\\)\n. Ph\u00e2n gi\u00e1c g\u00f3c \n\\(\\widehat{OAB}\\)\n c\u1eaft \n\\(k\\)\n t\u1ea1i \n\\(C\\neq A\\)\n. \n\\(AB\\)\n c\u1eaft \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp tam gi\u00e1c \n\\(OBC\\)\n t\u1ea1i \n\\(D\\neq B\\)\n. Ch\u1ee9ng minh r\u1eb1ng \n\\(AD = AO\\)\n.\n\n\nB\u00e0i 2\n\n\nT\u00ecm t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m s\u1ed1 \n\\(f:\\mathbb{R}\\rightarrow \\mathbb{R}\\)\n tho\u1ea3 m\u00e3n v\u1edbi m\u1ecdi \n\\(x,y\\in \\mathbb{R}\\)\n:\n\n\n\\[\nf\\left( x + y f\\left( x \\right) \\right) = f\\left( x f\\left( y \\right) \\right) - x + f\\left( y + f\\left( x \\right) \\right)\n\\]\nB\u00e0i 3\n\n\nTo\u00e0 nh\u00e0 trung t\u00e2m c\u1ee7a tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc B\u00e1ch Khoa l\u00e0 m\u1ed9t h\u00ecnh ch\u1eef nh\u1eadt \u0111\u01b0\u1ee3c chia nh\u1ecf th\u00e0nh c\u00e1c h\u00ecnh vu\u00f4ng \u0111\u01a1n v\u1ecb. M\u1ed7i c\u1ea1nh c\u1ee7a c\u00e1c h\u00ecnh vu\u00f4ng l\u00e0 m\u1ed9t b\u1ee9c t\u01b0\u1eddng, c\u00f3 m\u1ed9t s\u1ed1 b\u1ee9c t\u01b0\u1eddng c\u00f3 c\u1eeda. T\u01b0\u1eddng bao quanh to\u00e0 nh\u00e0 kh\u00f4ng c\u00f3 c\u1eeda. M\u1ed9t s\u1ed1 sinh vi\u00ean nh\u1eadp h\u1ecdc \u0111i l\u1ea1c trong to\u00e0 nh\u00e0. H\u1ecd ch\u1ec9 c\u00f3 th\u1ec3 \u0111i t\u1eeb m\u1ed9t \u00f4 vu\u00f4ng n\u00e0y sang m\u1ed9t \u00f4 vu\u00f4ng c\u1ea1nh \u0111\u00f3 b\u1eb1ng c\u00e1ch \u0111i qua c\u1eeda. Gi\u1ea3 s\u1eed r\u1eb1ng lu\u00f4n t\u1ed3n t\u1ea1i m\u1ed9t con \u0111\u01b0\u1eddng gi\u1eefa hai \u00f4 vu\u00f4ng b\u1ea5t k\u1ef3 trong to\u00e0 nh\u00e0.\n\n\nCh\u00e2u mu\u1ed1n h\u01b0\u1edbng d\u1eabn t\u1ea5t c\u1ea3 sinh vi\u00ean c\u00f9ng \u0111i v\u1ec1 m\u1ed9t \u00f4 vu\u00f4ng. \u0110\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c vi\u1ec7c \u0111\u00f3, Ch\u00e2u c\u00f3 th\u1ec3 ra hi\u1ec7u l\u1ec7nh qua b\u1ed9 \u0111\u00e0m ch\u1ec9 c\u00e1c h\u01b0\u1edbng \u0110\u1ed1ng, B\u1eafc, T\u00e2y, Nam. Sau m\u1ed7i hi\u1ec7u l\u1ec7nh, c\u00e1c sinh vi\u00ean s\u1ebd \u0111i theo h\u01b0\u1edbng hi\u1ec7u l\u1ec7nh \u0111\u00e3 n\u00eau ra, n\u1ebfu h\u01b0\u1edbng \u0111\u00f3 kh\u00f4ng c\u00f3 c\u1eeda, sinh vi\u00ean \u0111\u00f3 s\u1ebd \u0111\u1ee9ng y\u00ean.\n\n\nCh\u1ee9ng minh r\u1eb1ng Ch\u00e2u lu\u00f4n c\u00f3 th\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c \u0111i\u1ec1u \u0111\u00f3 kh\u00f4ng ph\u1ee5 thu\u1ed9c v\u00e0o v\u1ecb tr\u00ed ban \u0111\u1ea7u c\u1ee7a c\u00e1c sinh vi\u00ean b\u1ecb l\u1ea1c.\n\n\nB\u00e0i 4\n\n\n\\(n\\)\n l\u00e0 m\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean v\u00e0 \n\\(p,q\\)\n l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean t\u1ed1 tho\u1ea3 m\u00e3n:\n\n\n\\[\npq | n^p + 2\\\\\nn + 2 | n^p + q^p\n\\]\nCh\u1ee9ng minh r\u1eb1ng t\u1ed3n t\u1ea1i m\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean \n\\(m\\)\n sao cho \n\\(q | 4^mn + 2\\)\n\n\nB\u00e0i 5\n\n\nTam gi\u00e1c \n\\(ABC\\)\n v\u1edbi \n\\(AC\nAB\\)\n. Ti\u1ebfp tuy\u1ebfn c\u1ee7a \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp t\u1ea1i \n\\(A\\)\n c\u1eaft \n\\(BC\\)\n t\u1ea1i \n\\(P\\)\n. \n\\(Q\\)\n l\u00e0 \u0111i\u1ec3m n\u1eb1m tr\u00ean \n\\(AC\\)\n tho\u1ea3 m\u00e3n \n\\(AQ = AB\\)\n v\u00e0 \n\\(A\\)\n n\u1eb1m gi\u1eefa \n\\(C,Q\\)\n. \n\\(X,Y\\)\n l\u00e0 trung \u0111i\u1ec3m \n\\(BQ\\)\n v\u00e0 \n\\(AP\\)\n. \n\\(R\\)\n l\u00e0 \u0111i\u1ec3m tr\u00ean \n\\(AP\\)\n sao cho \n\\(AR = BP\\)\n v\u00e0 \n\\(R\\)\n n\u1eb1m gi\u1eefa \n\\(A,P\\)\n. Ch\u1ee9ng minh r\u1eb1ng \n\\(BR = 2XY\\)\n.\n\n\nNg\u00e0y 2\n\n\nB\u00e0i 6\n\n\nB\u00e0i 7\n\n\nB\u00e0i 8\n\n\nB\u00e0i 9\n\n\nB\u00e0i 10", 
+            "title": "2017"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#switzerland-national-2017", 
+            "text": "", 
+            "title": "Switzerland National 2017"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#ngay-1", 
+            "text": "", 
+            "title": "Ng\u00e0y 1"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-1", 
+            "text": "\\(A,B\\)  l\u00e0 hai \u0111i\u1ec3m tr\u00ean \u0111\u01b0\u1eddng tr\u00f2n  \\(k\\)  t\u00e2m  \\(O\\)  tho\u1ea3 m\u00e3n  \\(AB AO\\) . Ph\u00e2n gi\u00e1c g\u00f3c  \\(\\widehat{OAB}\\)  c\u1eaft  \\(k\\)  t\u1ea1i  \\(C\\neq A\\) .  \\(AB\\)  c\u1eaft \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp tam gi\u00e1c  \\(OBC\\)  t\u1ea1i  \\(D\\neq B\\) . Ch\u1ee9ng minh r\u1eb1ng  \\(AD = AO\\) .", 
+            "title": "B\u00e0i 1"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-2", 
+            "text": "T\u00ecm t\u1ea5t c\u1ea3 c\u00e1c h\u00e0m s\u1ed1  \\(f:\\mathbb{R}\\rightarrow \\mathbb{R}\\)  tho\u1ea3 m\u00e3n v\u1edbi m\u1ecdi  \\(x,y\\in \\mathbb{R}\\) :  \\[\nf\\left( x + y f\\left( x \\right) \\right) = f\\left( x f\\left( y \\right) \\right) - x + f\\left( y + f\\left( x \\right) \\right)\n\\]", 
+            "title": "B\u00e0i 2"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-3", 
+            "text": "To\u00e0 nh\u00e0 trung t\u00e2m c\u1ee7a tr\u01b0\u1eddng \u0111\u1ea1i h\u1ecdc B\u00e1ch Khoa l\u00e0 m\u1ed9t h\u00ecnh ch\u1eef nh\u1eadt \u0111\u01b0\u1ee3c chia nh\u1ecf th\u00e0nh c\u00e1c h\u00ecnh vu\u00f4ng \u0111\u01a1n v\u1ecb. M\u1ed7i c\u1ea1nh c\u1ee7a c\u00e1c h\u00ecnh vu\u00f4ng l\u00e0 m\u1ed9t b\u1ee9c t\u01b0\u1eddng, c\u00f3 m\u1ed9t s\u1ed1 b\u1ee9c t\u01b0\u1eddng c\u00f3 c\u1eeda. T\u01b0\u1eddng bao quanh to\u00e0 nh\u00e0 kh\u00f4ng c\u00f3 c\u1eeda. M\u1ed9t s\u1ed1 sinh vi\u00ean nh\u1eadp h\u1ecdc \u0111i l\u1ea1c trong to\u00e0 nh\u00e0. H\u1ecd ch\u1ec9 c\u00f3 th\u1ec3 \u0111i t\u1eeb m\u1ed9t \u00f4 vu\u00f4ng n\u00e0y sang m\u1ed9t \u00f4 vu\u00f4ng c\u1ea1nh \u0111\u00f3 b\u1eb1ng c\u00e1ch \u0111i qua c\u1eeda. Gi\u1ea3 s\u1eed r\u1eb1ng lu\u00f4n t\u1ed3n t\u1ea1i m\u1ed9t con \u0111\u01b0\u1eddng gi\u1eefa hai \u00f4 vu\u00f4ng b\u1ea5t k\u1ef3 trong to\u00e0 nh\u00e0.  Ch\u00e2u mu\u1ed1n h\u01b0\u1edbng d\u1eabn t\u1ea5t c\u1ea3 sinh vi\u00ean c\u00f9ng \u0111i v\u1ec1 m\u1ed9t \u00f4 vu\u00f4ng. \u0110\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c vi\u1ec7c \u0111\u00f3, Ch\u00e2u c\u00f3 th\u1ec3 ra hi\u1ec7u l\u1ec7nh qua b\u1ed9 \u0111\u00e0m ch\u1ec9 c\u00e1c h\u01b0\u1edbng \u0110\u1ed1ng, B\u1eafc, T\u00e2y, Nam. Sau m\u1ed7i hi\u1ec7u l\u1ec7nh, c\u00e1c sinh vi\u00ean s\u1ebd \u0111i theo h\u01b0\u1edbng hi\u1ec7u l\u1ec7nh \u0111\u00e3 n\u00eau ra, n\u1ebfu h\u01b0\u1edbng \u0111\u00f3 kh\u00f4ng c\u00f3 c\u1eeda, sinh vi\u00ean \u0111\u00f3 s\u1ebd \u0111\u1ee9ng y\u00ean.  Ch\u1ee9ng minh r\u1eb1ng Ch\u00e2u lu\u00f4n c\u00f3 th\u1ec3 \u0111\u1ea1t \u0111\u01b0\u1ee3c \u0111i\u1ec1u \u0111\u00f3 kh\u00f4ng ph\u1ee5 thu\u1ed9c v\u00e0o v\u1ecb tr\u00ed ban \u0111\u1ea7u c\u1ee7a c\u00e1c sinh vi\u00ean b\u1ecb l\u1ea1c.", 
+            "title": "B\u00e0i 3"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-4", 
+            "text": "\\(n\\)  l\u00e0 m\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean v\u00e0  \\(p,q\\)  l\u00e0 c\u00e1c s\u1ed1 nguy\u00ean t\u1ed1 tho\u1ea3 m\u00e3n:  \\[\npq | n^p + 2\\\\\nn + 2 | n^p + q^p\n\\] Ch\u1ee9ng minh r\u1eb1ng t\u1ed3n t\u1ea1i m\u1ed9t s\u1ed1 t\u1ef1 nhi\u00ean  \\(m\\)  sao cho  \\(q | 4^mn + 2\\)", 
+            "title": "B\u00e0i 4"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-5", 
+            "text": "Tam gi\u00e1c  \\(ABC\\)  v\u1edbi  \\(AC AB\\) . Ti\u1ebfp tuy\u1ebfn c\u1ee7a \u0111\u01b0\u1eddng tr\u00f2n ngo\u1ea1i ti\u1ebfp t\u1ea1i  \\(A\\)  c\u1eaft  \\(BC\\)  t\u1ea1i  \\(P\\) .  \\(Q\\)  l\u00e0 \u0111i\u1ec3m n\u1eb1m tr\u00ean  \\(AC\\)  tho\u1ea3 m\u00e3n  \\(AQ = AB\\)  v\u00e0  \\(A\\)  n\u1eb1m gi\u1eefa  \\(C,Q\\) .  \\(X,Y\\)  l\u00e0 trung \u0111i\u1ec3m  \\(BQ\\)  v\u00e0  \\(AP\\) .  \\(R\\)  l\u00e0 \u0111i\u1ec3m tr\u00ean  \\(AP\\)  sao cho  \\(AR = BP\\)  v\u00e0  \\(R\\)  n\u1eb1m gi\u1eefa  \\(A,P\\) . Ch\u1ee9ng minh r\u1eb1ng  \\(BR = 2XY\\) .", 
+            "title": "B\u00e0i 5"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#ngay-2", 
+            "text": "", 
+            "title": "Ng\u00e0y 2"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-6", 
+            "text": "", 
+            "title": "B\u00e0i 6"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-7", 
+            "text": "", 
+            "title": "B\u00e0i 7"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-8", 
+            "text": "", 
+            "title": "B\u00e0i 8"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-9", 
+            "text": "", 
+            "title": "B\u00e0i 9"
+        }, 
+        {
+            "location": "/switzerland/national/2017/#bai-10", 
+            "text": "", 
+            "title": "B\u00e0i 10"
         }
     ]
 }
