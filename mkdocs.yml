@@ -11,6 +11,8 @@ pages:
   - "Switzerland":
     - "National":
       - "2017": "switzerland/national/2017.md"
+    - "TST":
+      - "2017": "switzerland/tst/2017.md"
 
 theme: 'material'
 extra:
