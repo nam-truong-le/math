@@ -11,6 +11,8 @@ pages:
   - "Switzerland":
     - "National":
       - "2017": "switzerland/national/2017.md"
+      - "2016": "switzerland/national/2016.md"
+      - "2015": "switzerland/national/2015.md"
     - "TST":
       - "2017": "switzerland/tst/2017.md"
 
